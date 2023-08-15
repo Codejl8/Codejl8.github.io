@@ -413,14 +413,11 @@ This line is only separated by a single newline, so it's a separate line in the 
 
 
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+<a href="https://www.youtube.com/watch?v=-AmjlRjMKsY"><img src="https://i.ytimg.com/vi/-AmjlRjMKsY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ4qHSK4dmcYhJgTsuXkWUwYVAag" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-
 <br>
 <br>
 <br>
@@ -437,5 +434,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/-AmjlRjMKsY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ4qHSK4dmcYhJgTsuXkWUwYVAag)](https://www.youtube.com/watch?v=-AmjlRjMKsY)
